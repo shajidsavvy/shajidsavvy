@@ -4,17 +4,17 @@
 
 - 🔭 I’m currently working on **SEO, web development**
 
-- 🌱 I’m currently learning **Technical SEO, JavaScript, Azure**
+- 🌱 I’m currently learning **technical SEO, JavaScript, Azure**
 
 - 👯 I’m looking to collaborate on **SEO expert**
 
-- 🤝 I’m looking for help with **Backend developer**
+- 🤝 I’m looking for help with **backend developer**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://sites.google.com/view/alperenshajid/home)
 
 - 📝 I regularly write articles on [Blogger](blogger.com)
 
-- 💬 Ask me about **Technical SEO and ahrefs**
+- 💬 Ask me about **technical SEO and ahrefs**
 
 - 📫 How to reach me **me@shajid-ahmed.live**
 
