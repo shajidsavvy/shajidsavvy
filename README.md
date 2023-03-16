@@ -10,9 +10,9 @@
 
 - 🤝 I’m looking for help with **backend developer**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://sites.google.com/view/alperenshajid/home)
+- 👨‍💻 All of my projects are available at [my portfolio](Coming soon)
 
-- 📝 I regularly write articles on [Blogger]
+- 📝 I regularly write articles on **Blogger**
 
 - 💬 Ask me about **technical SEO and ahrefs**
 
