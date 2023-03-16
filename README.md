@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://sites.google.com/view/alperenshajid/home)
 
-- 📝 I regularly write articles on [Blogger](blogger.com)
+- 📝 I regularly write articles on [Blogger]
 
 - 💬 Ask me about **technical SEO and ahrefs**
 
