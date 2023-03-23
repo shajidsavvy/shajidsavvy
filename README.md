@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **me@shajid-ahmed.live**
 
-- 📄 Know about [my experiences](https://web.shajid-ahmed.live/)
+- 📄 Know about [my experiences](https://www.shajid-ahmed.social/)
 
 - ⚡ Fun fact **I think I'm lazy as hell.**
 
